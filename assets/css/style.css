@@ -12,10 +12,10 @@ nav.navbar{
     margin-left: 45%;
 }
 .presentation{
-    margin-bottom: 5em;
+    margin-bottom: 2em;
     text-align: justify;
 }
-.title-presentation{
+.title-presentation, .title-form{
     text-align: center;
     background-color: black;
     padding: 1em;
@@ -44,6 +44,9 @@ hr{
 }
 .card-body{
     color: white;
+}
+.form{
+    margin-bottom: 3em;
 }
 footer {
     text-align: right;
