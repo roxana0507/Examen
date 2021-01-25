@@ -1,27 +1,13 @@
 body{
     background-color: black;
-    font-family: 'Open Sans', sans-serif;
-    text-align: justify;
-}
-header{
-    background-color:#289ba8;
-    }
-nav.navbar{
-    text-align: right;
-    margin-left: 5%;
+    font-family:'Open Sans', sans-serif;
+    color: white;
 }
 #navigationbar{
     margin-left: 45%;
 }
-.presentation{
-    margin-bottom: 2em;
-    text-align: justify;
-}
-.title-presentation, .title-form{
-    text-align: center;
-    background-color: black;
+.title-presentation, .title-form, .title-contact{
     padding: 1em;
-    color: white;
 }
 .row{
     color: white;
