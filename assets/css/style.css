@@ -1,5 +1,7 @@
 body{
     background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
 }
 header{
     background-color:#289ba8;
